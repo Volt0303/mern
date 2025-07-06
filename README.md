@@ -4,7 +4,7 @@ Welcome to the Blog App repository! This application is built using the MERN (Mo
 
 also visit [E-commerce_website-using-React-Redux](https://github.com/khushi2706/E-commerce-website-using-React-Redux)
 
-## Functionalities
+## Functionalities            
 
 - **Authentication:** Secure user authentication system to protect your blogs.
 - **Create Blog:** Easily create and publish your blogs with a user-friendly interface.
